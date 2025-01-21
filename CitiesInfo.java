@@ -421,7 +421,7 @@ break;
 }
 }
 }
-class Github
+class CitiesInfo
 {
 public static void main(String [] args)
 {
